@@ -8,7 +8,4 @@ Aplicación web que permite encriptar y desencriptar mensajes de texto utilizand
 - **CSS**: Para el diseño y estilo de la aplicación.
 - **JavaScript**: Para implementar la lógica de encriptación y desencriptación.
 
-## Instalación
-1. Clona el repositorio: 
-   ```bash
-   
+Es mi primer proyecto, no hay mucho que ver :(
